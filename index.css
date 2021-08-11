@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+
+}
+
+
+.jumbotron {
+    color: #C54644;
+}
+.btn {
+    background-color: inherit;
+    border-color: rgba(128, 128, 128, 0.411);
+    color:  inherit;
+}
+.btn:hover {
+    transition: background-color 500ms;
+    background-color:#C54644;
+    border-color: white;
+}
+.btn:focus {
+    background-color:white;
+    border-color:#C54644;
+    color: #C54644;
+}
